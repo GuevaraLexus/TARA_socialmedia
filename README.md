@@ -49,11 +49,19 @@ To run the app locally, follow these steps:
 
 4. **Create a `.env` file in the root directory and add the following environment variables**:
     \`\`\`
+   for server
     MONGO_URI=your_mongodb_connection_string
     JWT_SECRET_KEY=your_jwt_secret_key
+    PORT=your_localhost_port
+    AUTH_EMAIL=your_email_for_sending_email_verification
+    AUTH_PASSWORD=your_APP_password
+    APP_url=your_localhost_but_will_be_changed_during_deployment
+
+   for client
+    REACT_APP_CLOUDINARY_ID=your_cloudinary_id
     \`\`\`
 
-5. **Run the application**:
+6. **Run the application**:
     \`\`\`sh
     npm run dev
     \`\`\`
