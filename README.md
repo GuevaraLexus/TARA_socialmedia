@@ -23,7 +23,7 @@ Check out the live demo of the app [here](https://tara-socialmedia.netlify.app).
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
-- **Styling**: CSS, Bootstrap
+- **Styling**: Tailwind CSS
 
 ## Installation
 
@@ -65,8 +65,6 @@ To run the app locally, follow these steps:
     \`\`\`sh
     npm run dev
     \`\`\`
-
-The app should now be running on [http://localhost:3000](http://localhost:3000).
 
 ## Contributing
 
