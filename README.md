@@ -7,6 +7,11 @@ Welcome to **TARA**, a modern social media application built using the MERN stac
 
 Check out the live demo of the app [here](https://tara-socialmedia.netlify.app).
 
+## YT Video
+
+This is the video that I followed to create this app [here](https://www.youtube.com/watch?v=EeeX_tvBAKk).
+Also that is the video of the backend, you can follow Codewaves for more updates and for the frontend.
+
 ## Features
 
 - **User Authentication**: Secure sign-up and login with JWT authentication.
